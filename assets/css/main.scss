@@ -36,7 +36,7 @@
 ;
 
 /* Custom styling for profile photo */
-.author__avatar img {
-  border-radius: 5px !important;
-  max-width: 200px !important;
+.author__avatar {
+  display: none !important;
+}
 }
